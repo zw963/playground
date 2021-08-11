@@ -11,4 +11,4 @@ gem 'sass'
 gem 'uglifier'
 gem 'htmlcompressor'
 
-gem 'bootstrap-sass'
+# gem 'bootstrap-sass'
