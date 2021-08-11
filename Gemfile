@@ -6,7 +6,6 @@ gem 'inesita-livereload'
 
 gem 'opal-browser'
 
-gem 'slim'
 gem 'sass'
 
 gem 'uglifier'
